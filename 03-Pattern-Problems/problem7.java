@@ -1,4 +1,4 @@
-public class basicproblem7 {
+public class problem7 {
     public static void main(String args[]){
         int m=5;
         for(int i=1;i<=m;i++){

@@ -1,4 +1,4 @@
-public class basicproblems {
+public class problem {
     public static void main(String args[]){
         int x = 5;
         int y=4;
