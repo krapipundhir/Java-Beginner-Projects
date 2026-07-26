@@ -1,3 +1,5 @@
+// Printing the pattern of right angled triangle from 1 2 3 4 5 in the increasing order in every row and always starting nu. will be 1 in every line. 
+
 public class problem5 {
 
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+// Printing a inverted Right angle triangle of stars, which is decreasingly row wise.
 public class problem3 {
 
     public static void main(String args[]){

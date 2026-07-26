@@ -1,3 +1,5 @@
+// Printing a increasing pattern of stars-(row wise), it seems like a Right angle Triangle.
+
 public class problem2 {
     public static void main(String args[]){
         int n=5;

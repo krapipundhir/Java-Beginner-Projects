@@ -1,3 +1,5 @@
+// printing a hollow Rectangle of Stars.
+
 public class problem {
     public static void main(String args[]){
         int x = 5;
