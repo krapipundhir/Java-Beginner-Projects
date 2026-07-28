@@ -1,6 +1,6 @@
 // Print a Solid Rectangle of Stars.
 
-public class problem10 {
+public class Rectangle {
 
     public static void main(String args[]) {
 

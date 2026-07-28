@@ -1,6 +1,6 @@
 // Printing the Diamond Pattern of Stars.
 
-public class problem16 {
+public class Diamond {
     public static void main(String args[]) {
         int m = 4;
         for (int i = 1; i <= m; i++) {

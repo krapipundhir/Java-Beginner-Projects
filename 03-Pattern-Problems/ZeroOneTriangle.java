@@ -1,6 +1,6 @@
-// 
+// Binary Pattern triangle.
 
-public class problem9 {
+public class ZeroOneTriangle {
     public static void main(String args[]) {
         int n = 5;
 

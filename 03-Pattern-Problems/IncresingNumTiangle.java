@@ -1,6 +1,6 @@
 // Printing the pattern of right angle triangle but always in increasiing order, It will start with 1 and ending with 15.
 
-public class problem8 {
+public class IncresingNumTiangle {
     public static void main(String args[]) {
 
         int m = 5;

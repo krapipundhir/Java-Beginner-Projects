@@ -1,15 +1,14 @@
-// Print a Solid Rhombus.
+// Printing a solid Triangle.
 
-public class problem11 {
-
+public class Triangle {
     public static void main(String args[]) {
-        int m = 4;
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= m - i; j++) {
+        int x = 5;
+        for (int i = 1; i <= x; i++) {
+            for (int j = 1; j <= x - i; j++) {
                 System.out.print(" ");
             }
 
-            for (int j = 1; j <= m; j++) {
+            for (int j = 1; j <= i; j++) {
 
                 System.out.print("* ");
             }

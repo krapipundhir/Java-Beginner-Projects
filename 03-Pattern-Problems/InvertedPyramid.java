@@ -1,6 +1,6 @@
 // Inverted Half Pyramid rotaed by 180 degree.
 
-public class problem4 {
+public class InvertedPyramid {
     public static void main(String args[]) {
         int m = 4;
         // Outer loop for rows.

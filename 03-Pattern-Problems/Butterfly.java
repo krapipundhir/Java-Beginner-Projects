@@ -1,6 +1,6 @@
 // Printing a Butterfly Pattern by using Stars.
 import java.util.*;
-public class problem14 {
+public class Butterfly {
     public static void main(String args[]){
         int m=5;
         // Upper Half.
