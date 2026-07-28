@@ -1,21 +1,17 @@
 import java.util.*;
+
 public class OddEven {
-    public static void main(String args[]){
+    public static void main(String args[]) {
 
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number:");
-        int number=sc.nextInt();
+        int number = sc.nextInt();
 
-    
-        if(number%2==0){
+        if (number % 2 == 0) {
             System.out.println("it is an even number");
-        } else{
+        } else {
             System.out.println("its an odd.");
         }
     }
 
 }
-
-    
-    
-
