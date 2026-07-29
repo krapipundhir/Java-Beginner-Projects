@@ -5,6 +5,7 @@ public class Table {
         Scanner sc = new Scanner(System.in);
         System.out.print("Which table you want to print. : ");
         int n = sc.nextInt();
+        
 
         int i;
         for (i = 1; i <= 10; i++) {
