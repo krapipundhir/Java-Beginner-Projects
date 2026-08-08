@@ -1,3 +1,5 @@
+// A Program to check two numbers given by users as input to which one Greater or Smaller.
+
 import java.util.*;
 
 public class CompareTwoNumbers {

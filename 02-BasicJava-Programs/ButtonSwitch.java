@@ -1,3 +1,5 @@
+// A program just like Greetings.
+
 import java.util.Scanner;
 
 public class ButtonSwitch {

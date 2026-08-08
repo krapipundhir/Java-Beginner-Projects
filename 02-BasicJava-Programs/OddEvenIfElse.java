@@ -1,3 +1,5 @@
+// A Progarm to Check number is odd or even that is given by the User.
+
 import java.util.*;
 
 public class OddEvenIfElse {

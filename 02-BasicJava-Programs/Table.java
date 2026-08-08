@@ -1,3 +1,5 @@
+// A Program to print the Table of any Num given by thr User.
+
 import java.util.*;
 
 public class Table {

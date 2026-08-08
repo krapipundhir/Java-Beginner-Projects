@@ -1,3 +1,5 @@
+// Same Program to Identify Odd/Even by Switch Case Method nothing more.
+
 import java.util.*;
 
 public class OddEvenSwitch {

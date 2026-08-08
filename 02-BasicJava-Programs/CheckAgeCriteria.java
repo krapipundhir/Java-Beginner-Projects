@@ -1,3 +1,5 @@
+// Program to Check the age of a Person is Adult or not.
+
 import java.util.*;
 
 public class CheckAgeCriteria {
