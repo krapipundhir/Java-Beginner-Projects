@@ -1,3 +1,4 @@
+// Printing the product of that two numbers that is giving by the user.
 import java.util.*;
 
 public class MultipleOfNumbers {
@@ -13,9 +14,10 @@ public class MultipleOfNumbers {
         int a = sc.nextInt();
         System.out.print("Enter the number b : ");
         int b = sc.nextInt();
-        int multiply = calculateProduct(a, b);
+        // int multiply = calculateProduct(a, b);
 
-        System.out.print("The Multiply of two Numbers is : " + multiply);
+        System.out.print("The Multiply of two Numbers is : " +calculateProduct(a,b));
+        sc.close();
     }
 
 }

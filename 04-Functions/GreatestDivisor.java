@@ -24,7 +24,7 @@ public class GreatestDivisor {
         System.out.print("Enter Second number: ");
         int Second = sc.nextInt();
 
-        commonGreatestDivisor(First, Second);
+        commonGreatestDivisor(First,Second);
         return;
     }
 

@@ -1,20 +1,20 @@
+// Program to Find the Factorial of a number given by the user.
+
 import java.util.*;
 
 public class Factorial {
-    public static void printfactorial(int a){
+    public static void printfactorial(int a) {
         // loop.
-        if(a<0){
+        if (a < 0) {
             System.out.println("Invalid number");
             return;
         }
-        int factorial=1;
-        for(int i=a;i>=1;i--){
-            factorial=factorial*i;
-            
-
+        int factorial = 1;
+        for (int i = a; i >= 1; i--) {
+            factorial = factorial * i;
 
         }
-        System.out.println("The Facto is : "+factorial);
+        System.out.println("The Facto is : " + factorial);
         return;
     }
 

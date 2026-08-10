@@ -1,3 +1,5 @@
+// Program to Return Greater number from the two numbers given by the user as input.
+
 import java.util.Scanner;
 
 public class ReturnGreater {

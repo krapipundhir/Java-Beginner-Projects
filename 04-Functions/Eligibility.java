@@ -1,3 +1,5 @@
+// Progarm to Check the eligibilty of the user for Voting by using the Age that is entered by the user.
+
 import java.util.*;
 
 public class Eligibility {

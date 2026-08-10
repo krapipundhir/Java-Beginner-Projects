@@ -1,11 +1,13 @@
+// Program to print the Circumference from Radius given by the User as the Input.
+
 import java.util.*;
 
 public class Circumference {
     public static void findCircumference(int r) {
 
-        double Circumference = 2 * Math.PI * r;
+        double circumference = 2 * Math.PI * r;
 
-        System.out.print("Circumference will be : " + Circumference);
+        System.out.print("Circumference will be : " + circumference);
         return;
 
     }

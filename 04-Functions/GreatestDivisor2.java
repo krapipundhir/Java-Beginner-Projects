@@ -1,7 +1,9 @@
+// Progarm to Find GCD from two nnumber given by user METHOD 2.
+
 import java.util.Scanner;
 
-public class GreatestDivisior2 {
-    public static void commonGreatestDivisior(int a, int b) {
+public class GreatestDivisor2 {
+    public static void commonGreatestDivisor(int a, int b) {
 
         while (b != 0) {
             int remiander = a % b;
@@ -22,7 +24,8 @@ public class GreatestDivisior2 {
         System.out.print("Enter Second number: ");
         int Second = sc.nextInt();
 
-        commonGreatestDivisior(First, Second);
+        commonGreatestDivisor(First, Second);
+        sc.close();
         return;
     }
 

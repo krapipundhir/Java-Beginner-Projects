@@ -1,3 +1,5 @@
+// Progarm to Calculate the sum of two numbers given by the user as input.
+
 import java.util.Scanner;
 
 public class SumOfOdd {

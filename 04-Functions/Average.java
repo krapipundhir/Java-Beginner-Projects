@@ -1,3 +1,5 @@
+// Program to find the Average of Two Numbers given by the User as the input.
+
 import java.util.*;
 
 public class Average {

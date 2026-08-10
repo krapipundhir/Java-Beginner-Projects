@@ -1,3 +1,5 @@
+// Program to CaLculate the sum of two numbers giveen by the user as Input.
+
 import java.util.*;
 
 public class AddNumbers {
