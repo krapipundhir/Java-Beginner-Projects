@@ -17,9 +17,9 @@ public class Calculator1 {
         System.out.println("3.Substraction");
         System.out.println("4.Division");
         System.out.print("Enter your choice: ");
-        int Choice = sc.nextInt();
+        int choice = sc.nextInt();
 
-        switch (Choice) {
+        switch (choice) {
             case 1:
                 System.out.println("sum = " + (first + second));
                 break;
@@ -30,7 +30,7 @@ public class Calculator1 {
                 System.out.print("Substraction = " + (first - second));
                 break;
             case 4:
-                System.out.print("Division = " + (first % second));
+                System.out.print("Division = " + (first/second));
                 break;
             default:
                 System.out.print("Invalid Choice");
