@@ -1,3 +1,11 @@
+
+//  * Topic: Java Inheritance & Method Overriding
+//  * Problem: Java Method Overriding 2 (Super Keyword)
+//  * Source: HackerRank
+//  * Description: Demonstrates how to access parent class methods from a 
+//  *              subclass using the 'super' keyword.
+//  */
+
 import java.util.*;
 import java.io.*;
 
