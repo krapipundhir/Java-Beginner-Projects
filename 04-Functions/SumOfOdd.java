@@ -1,4 +1,4 @@
-// Progarm to Calculate the sum of two numbers given by the user as input.
+// Progarm to Calculate the sum of all Odd Numbers lies between the 1 to n that is entered by the user.
 
 import java.util.Scanner;
 
