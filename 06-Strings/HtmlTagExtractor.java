@@ -1,7 +1,7 @@
 //  * Project: Java Practice / HackerRank Solutions
 //  * File: TagContentExtractor.java
 //  * Description: Extracts valid text content enclosed between matching HTML/XML tags
-//  *              using Java Regular Expressions (Regex) and Pattern/Matcher classes.
+//  * using Java Regular Expressions (Regex) and Pattern/Matcher classes.
 //  * Author: [Krapi Pundhir]
  
 import java.util.*;
